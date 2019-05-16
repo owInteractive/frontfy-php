@@ -4,7 +4,7 @@ Frontfy PHP is a structure for front-end projects make with PHP.
 
 ## Usage
 
-Clone this repository or use our [CLI](https://github.com/owfrontend/frontfy-cli).
+Clone this repository or use our [CLI](https://github.com/owInteractive/frontfy-cli).
 
 ### Run the project
 
